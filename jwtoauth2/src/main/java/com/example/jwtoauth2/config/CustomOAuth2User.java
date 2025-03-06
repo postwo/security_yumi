@@ -1,4 +1,4 @@
-package com.example.jwtoauth2.service;
+package com.example.jwtoauth2.config;
 
 import com.example.jwtoauth2.dto.UserDTO;
 import org.springframework.security.core.GrantedAuthority;
