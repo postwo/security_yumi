@@ -1,5 +1,6 @@
 package com.example.jwtoauth2.service;
 
+import com.example.jwtoauth2.config.CustomOAuth2User;
 import com.example.jwtoauth2.dto.UserDTO;
 import com.example.jwtoauth2.dto.oauth.GoogleResponse;
 import com.example.jwtoauth2.dto.oauth.NaverResponse;
